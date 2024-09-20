@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Estudante de Tecnologia de Sistemas da Computação pela UFF-RJ.
+Estudante de Engenharia da Computação.
 
 Estou em constante evolução, sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
 
